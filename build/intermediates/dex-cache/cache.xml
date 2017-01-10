@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/liut1/Documents/Projects/Android/GitSourceCode/RSA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5835497b5c00b6cf0ee806200721a04ef48deaea">
+        <dex dex="/Users/liut1/Documents/Projects/Android/GitSourceCode/RSA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18109324511729f90ebd673794787c165527c2c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liut1/Documents/Projects/Android/GitSourceCode/RSA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f157d2baedd4c04b48ff7aff5dc59521d88a063">
+        <dex dex="/Users/liut1/Documents/Projects/Android/GitSourceCode/RSA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_879a9c1c499b962af2a4ea6e874944aa399d2956/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liut1/Documents/Projects/Android/GitSourceCode/RSA/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/liut1/Documents/Projects/Android/GitSourceCode/RSA/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_4c402c452dda636cb349bfdd66744c75d61f8391/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liut1/Documents/Projects/Android/GitSourceCode/RSA/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/liut1/Documents/Projects/Android/GitSourceCode/RSA/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-20.0.0_3f78d7ed824724abd11f10a89418665303f94318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/liut1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/liut1/Documents/Projects/Android/GitSourceCode/RSA/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_fa2af494e1ab7730d725845cbeca387599290f6b/classes.dex" />
+    </item>
+
+</items>
